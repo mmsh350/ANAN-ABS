@@ -1,0 +1,65 @@
+[29-Jan-2024 17:03:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: join() expects at most 2 arguments, 4 given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...', 'We are sorry, b...', 'Please go back ...')
+#1 /home/abseduca/public_html/mails/form.php(23): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:03:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: join() expects at most 2 arguments, 4 given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...', 'We are sorry, b...', 'Please go back ...')
+#1 /home/abseduca/public_html/mails/form.php(23): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:04:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: join() expects at most 2 arguments, 4 given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...', 'We are sorry, b...', 'Please go back ...')
+#1 /home/abseduca/public_html/mails/form.php(23): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:28:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: join() expects at most 2 arguments, 4 given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...', 'We are sorry, b...', 'Please go back ...')
+#1 /home/abseduca/public_html/mails/form.php(23): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:29:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: join() expects at most 2 arguments, 4 given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...', 'We are sorry, b...', 'Please go back ...')
+#1 /home/abseduca/public_html/mails/form.php(23): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:30:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: join() expects at most 2 arguments, 4 given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...', 'We are sorry, b...', 'Please go back ...')
+#1 /home/abseduca/public_html/mails/form.php(23): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:30:21 UTC] PHP Fatal error:  Uncaught TypeError: join(): Argument #2 ($array) must be of type ?array, string given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...')
+#1 /home/abseduca/public_html/mails/form.php(26): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 17:31:56 UTC] PHP Fatal error:  Uncaught TypeError: join(): Argument #2 ($array) must be of type ?array, string given in /home/abseduca/public_html/mails/form.php:14
+Stack trace:
+#0 /home/abseduca/public_html/mails/form.php(14): join('We are very sor...', 'These errors ap...')
+#1 /home/abseduca/public_html/mails/form.php(26): died('We are sorry, b...')
+#2 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 14
+[29-Jan-2024 18:49:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abseduca/public_html/mails/form.php:25) in /home/abseduca/public_html/mails/form.php on line 119
+[29-Jan-2024 18:54:11 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/abseduca/public_html/mails/form.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 36
+[29-Jan-2024 18:54:35 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/abseduca/public_html/mails/form.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/abseduca/public_html/mails/form.php on line 36
+[29-Jan-2024 18:55:03 UTC] PHP Warning:  Array to string conversion in /home/abseduca/public_html/mails/form.php on line 47
+[29-Jan-2024 18:55:51 UTC] PHP Warning:  Array to string conversion in /home/abseduca/public_html/mails/form.php on line 48
+[29-Jan-2024 19:00:48 UTC] PHP Warning:  Array to string conversion in /home/abseduca/public_html/mails/form.php on line 48
+[29-Jan-2024 19:02:00 UTC] PHP Warning:  Array to string conversion in /home/abseduca/public_html/mails/form.php on line 57
+[29-Jan-2024 19:02:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abseduca/public_html/mails/form.php:57) in /home/abseduca/public_html/mails/form.php on line 58
+[29-Jan-2024 19:02:22 UTC] PHP Warning:  Array to string conversion in /home/abseduca/public_html/mails/form.php on line 57
+[29-Jan-2024 19:02:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abseduca/public_html/mails/form.php:57) in /home/abseduca/public_html/mails/form.php on line 58
+[29-Jan-2024 19:04:14 UTC] PHP Warning:  Array to string conversion in /home/abseduca/public_html/mails/form.php on line 47
